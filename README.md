@@ -1,5 +1,5 @@
 # Welcome to my Github
-** 👋 Hi, I’m Maya (HQ)**
+**👋 Hi, I’m Maya (HQ)**
 - 👀 I’m interested in All things art!
 - 🌱 I’m currently learning ... HTML and CSS
 - 📫 How to reach me Email: mayamontague4@gmail.comm 
