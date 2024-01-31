@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ***I am the Founder and CEO of Hustle Queen Productions***
 - 
- [![Linkedin Badge](https://img.shields.io/badge/maya-montague-a8288b274?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maya-montague-a8288b274/) "Connect on LinkedIn")
+ [![Linkedin Badge](https://img.shields.io/badge/maya-montague-a8288b274?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maya-montague-a8288b274/) 
 
 
 
