@@ -8,7 +8,7 @@
 - 
  [![Linkedin Badge](https://img.shields.io/badge/maya-montague-a8288b274?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maya-montague-a8288b274/) 
 
-<img src="./Hustlequeen2.jpg" alt="Hustlequeen" width="250" height="300">
+<img src="https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJvnTGRgntNmrGCpHLLxkMmpp?projector=1">
 
 
  
