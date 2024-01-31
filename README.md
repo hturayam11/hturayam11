@@ -5,6 +5,7 @@
 - 📫 How to reach me Email: *mayamontague4@gmail.com*
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ***I am the Founder and CEO of Hustle Queen Productions***
+  [![Linkedin Badge]([https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/](https://www.linkedin.com/in/maya-montague-a8288b274/) "Connect on LinkedIn")
 
 <!---
 hturayam11/hturayam11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
