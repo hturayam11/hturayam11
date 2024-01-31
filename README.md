@@ -1,8 +1,8 @@
 # Welcome to my Github
 **👋 Hi, I’m Maya (HQ)**
 - 👀 **I’m interested in All things art and food**
-- 🌱 I’m currently learning ... HTML and CSS
-- 📫 How to reach me Email: mayamontague4@gmail.comm 
+- 🌱 **I’m currently learning ... HTML and CSS**
+- 📫 How to reach me Email: *mayamontague4@gmail.com*
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am the Founder and CEO of Hustle Queen Productions
 
